@@ -1,0 +1,15 @@
+E:\Question-No-55\bin\Debug\net6.0\Question-No-55.exe
+E:\Question-No-55\bin\Debug\net6.0\Question-No-55.deps.json
+E:\Question-No-55\bin\Debug\net6.0\Question-No-55.runtimeconfig.json
+E:\Question-No-55\bin\Debug\net6.0\Question-No-55.dll
+E:\Question-No-55\bin\Debug\net6.0\ref\Question-No-55.dll
+E:\Question-No-55\bin\Debug\net6.0\Question-No-55.pdb
+E:\Question-No-55\obj\Debug\net6.0\Question-No-55.csproj.AssemblyReference.cache
+E:\Question-No-55\obj\Debug\net6.0\Question-No-55.GeneratedMSBuildEditorConfig.editorconfig
+E:\Question-No-55\obj\Debug\net6.0\Question-No-55.AssemblyInfoInputs.cache
+E:\Question-No-55\obj\Debug\net6.0\Question-No-55.AssemblyInfo.cs
+E:\Question-No-55\obj\Debug\net6.0\Question-No-55.csproj.CoreCompileInputs.cache
+E:\Question-No-55\obj\Debug\net6.0\Question-No-55.dll
+E:\Question-No-55\obj\Debug\net6.0\ref\Question-No-55.dll
+E:\Question-No-55\obj\Debug\net6.0\Question-No-55.pdb
+E:\Question-No-55\obj\Debug\net6.0\Question-No-55.genruntimeconfig.cache
